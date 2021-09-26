@@ -1,4 +1,4 @@
-#Required Packages : 
+# Required Packages : 
 `Arch :` sudo pacman -S base-devel qtermwidget
 `Debian : `sudo apt-get install build-essential libqtermwidget5-0
 # Minimal-Terminal
