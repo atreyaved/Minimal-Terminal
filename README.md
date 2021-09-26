@@ -1,6 +1,6 @@
 # Required Packages : 
-`Arch :` sudo pacman -S base-devel qtermwidget
-`Debian : `sudo apt-get install build-essential libqtermwidget5-0
+# Arch : sudo pacman -S base-devel qtermwidget
+# Debian : sudo apt-get install build-essential libqtermwidget5-0
 # Minimal-Terminal
 This is just a terminal I made while trying to learn C++, one of my first C++ projects, and I think its really good, heres how to use it : 
 
